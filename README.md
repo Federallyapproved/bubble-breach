@@ -4,7 +4,7 @@ A modern take on Pang / Bubble Trouble. Harpoon the orbs, chain air streaks, and
 
 **▶ Play in your browser (PC or phone):** https://federallyapproved.github.io/bubble-breach/
 
-**Downloads (v1.9)**
+**Downloads (v1.10)**
 - Android: [BubbleBreach.apk](https://federallyapproved.github.io/bubble-breach/downloads/BubbleBreach.apk) (Android 7+; allow "install unknown apps"; Play Protect may warn → Install anyway)
 - Windows: [BubbleBreach_Windows.zip](https://federallyapproved.github.io/bubble-breach/downloads/BubbleBreach_Windows.zip) → unzip, run `BubbleBreach.exe` (SmartScreen: More info → Run anyway)
 
